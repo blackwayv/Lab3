@@ -1,6 +1,6 @@
 # Lab3
-# Joshua Smith
-2. You can detect the overflow when the answers stop making sense (e.g. positive 25000 is suddenly -24000). It broke at 257
+Joshua Smith
+2. You can detect the overflow when the answers stop making sense (e.g. positive 25000 is suddenly -24000). It broke at 256
 3. Overflows at 65536
 4. the product is printed as "inf" if it overflows. It overflows at exactly 35, 34 gives an answer
 5. Overflows at 171
